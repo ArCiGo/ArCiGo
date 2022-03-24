@@ -2,6 +2,8 @@
 
 ## Welcome to my profile!
 
+I'm Armando Cifuentes González, well known as ArCiGo! 🕵️‍♂️ 🔎 🐞
+
 I'm Looking to grow as an Automation Test Engineer 🤖, work with amazing technologies 💪, and work in the European Union (Germany, Spain, or France) 🇪🇺 
 
 I'm Currently working as a **Software Engineer in Test** at *[Luxoft](https://www.luxoft.com/)*. Also, I'm a **Science Popularizer** at *[Sólo es Ciencia](https://soloesciencia.com/)*. Sometimes I work as a **Math/Testing/Career Switching & ISTQB CTFL mentor** 👨‍🏫
