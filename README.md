@@ -64,3 +64,5 @@ On the other hand, I've participated in activities like helping/visiting hospita
 * *«I like to help other people to learn and grow their skills in the IT field 😊»* **- ArCiGo**
 * *«Sometimes I find bugs where there shouldn’t be.»* **- ArCiGo**
 * *«The people have a lot of bugs, including me. But there is nothing to worry about, we are perfectible 😊»* **- ArCiGo**
+
+**Notes.-** As I mentioned, I'm interested to work in a company product (direct contract, not contractor), not in a consulting company, outsourcing, or something like that, not a financial/banking/trading company. I want a change of air.
