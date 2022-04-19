@@ -4,9 +4,9 @@
 
 I'm Armando Cifuentes González, well known as ArCiGo! 🕵️‍♂️ 🔎 🐞
 
-I'm Looking to grow as an Automation Test Engineer 🤖, work with amazing technologies 💪, and work in the European Union (Germany, Spain, or France) 🇪🇺 
+I'm Looking to grow as an Automation Test Engineer 🤖, work with amazing technologies 💪 (I'm open to learn new things!), and work in the European Union (Germany, Spain, or France) 🇪🇺 
 
-I'm Currently working as a **Software Engineer in Test** at *[Luxoft](https://www.luxoft.com/)*. Also, I'm a **Science Popularizer** at *[Sólo es Ciencia](https://soloesciencia.com/)*. Sometimes I work as a **Math/Testing/Career Switching & ISTQB CTFL mentor** 👨‍🏫
+I'm a **Software Engineer in Test**. Also, I'm a **Science Popularizer** at *[Sólo es Ciencia](https://soloesciencia.com/)*. Sometimes I work as a **Math/Testing/Career Switching & ISTQB CTFL mentor** 👨‍🏫
 
 ## I have worked as a:
 
@@ -65,4 +65,4 @@ On the other hand, I've participated in activities like helping/visiting hospita
 * *«Sometimes I find bugs where there shouldn’t be.»* **- ArCiGo**
 * *«The people have a lot of bugs, including me. But there is nothing to worry about, we are perfectible 😊»* **- ArCiGo**
 
-**Notes.-** As I mentioned, I'm interested to work in a company product (direct contract, not contractor), not in a consulting company, outsourcing, or something like that, not a financial/banking/trading company. I want a change of air.
+**Notes.-** As I mentioned, I'm interested to work in a product company (direct contract, not contractor), not in a consulting company, outsourcing, or something like that, not a financial/banking/trading company, and I don't want to work with legacy products. I want a change of air.
