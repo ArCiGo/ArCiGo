@@ -4,7 +4,7 @@
 
 I'm Armando Cifuentes González, well known as ArCiGo! 🕵️‍♂️ 🔎 🐞
 
-I'm Looking to grow as an Automation Test Engineer 🤖, work with amazing technologies 💪 (I'm open to learn new things!), and work in the European Union (Germany, Spain, or France) 🇪🇺 
+I'm Looking to grow as an Automation Test Engineer 🤖, work with amazing technologies 💪 (I'm open to learn new things!), and work in the European Union (Estonia, Germany, France, or Spain) 🇪🇺 
 
 I'm a **Software Engineer in Test**. Also, I'm a **Science Popularizer** at *[Sólo es Ciencia](https://soloesciencia.com/)*. Sometimes I work as a **Math/Testing/Career Switching & ISTQB CTFL mentor** 👨‍🏫
 
