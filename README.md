@@ -4,12 +4,13 @@
 
 I'm Armando Cifuentes González, well known as ArCiGo! 🕵️‍♂️ 🔎 🐞
 
-I'm Looking to grow as an Automation Test Engineer 🤖, work with amazing technologies 💪 (I'm open to learn new things!), and work in the European Union (Estonia, Germany, France, or Spain) 🇪🇺 
+I'm Looking for new challenges as an Automation Test Engineer 🤖, work with amazing technologies 💪 (I'm open to learn new things!), and work in the European Union 🇪🇺 
 
 I'm a **Software Engineer in Test**. Also, I'm a **Science Popularizer** at *[Sólo es Ciencia](https://soloesciencia.com/)*. Sometimes I work as a **Math/Testing/Career Switching & ISTQB CTFL mentor** 👨‍🏫
 
 ## I have worked as a:
 
+* **Software Engineer in Test** (Automation and Manual Tester) at *Luxoft*
 * **Software Engineer in Test** (Manual Tester) at *iTexico*.
 * **Software Engineer Intern** at *Unosquare*, using .NET/JS technologies
 * **Software Engineer Intern** at *Nectri Software Developments*, using .NET technologies.
@@ -49,11 +50,11 @@ On the other hand, I've participated in activities like helping/visiting hospita
 - I’m currently retaking Automation Testing 🤖 🦾
 - I’m looking to work in a company product 🏢
 - I like nature! 🌱 🦁 🌳
-- I like travelling and discover new places! 🧳 🗺️ ✈️
+- I like traveling and discovering new places! 🧳 🗺️ ✈️
 - I sing! 🎼 🎙️ (but I have that activity paused 😔).
-- Sometimes I write things. I have some short stories I did that needs to be polished 📖 🧒 
-- Also I like to read books 📚 🤓
-- Right now I have on stand by some automation frameworks that I did. The projects were made in C# and Java. My goal is to share the repos with the community who wants to start in this path or wants to have a framework for their projects ☺️
+- Sometimes I write things. I have some short stories I did that need to be polished 📖 🧒 
+- Also, I like to read books 📚 🤓
+- Right now I am on stand by some automation frameworks that I did. The projects were made in C# and Java. My goal is to share the repos with the community who wants to start on this path or wants to have a framework for their projects ☺️
 - 💬 Ask me about anything!
 - 📫 How to reach me:
   - [LinkedIn](https://www.linkedin.com/in/arcigo/)
@@ -65,4 +66,4 @@ On the other hand, I've participated in activities like helping/visiting hospita
 * *«Sometimes I find bugs where there shouldn’t be.»* **- ArCiGo**
 * *«The people have a lot of bugs, including me. But there is nothing to worry about, we are perfectible 😊»* **- ArCiGo**
 
-**Notes.-** As I mentioned, I'm interested to work in a product company (direct contract, not contractor), not in a consulting company, outsourcing, or something like that, not a financial/banking/trading company, and I don't want to work with legacy products. I want a change of air.
+**Notes.-** As I mentioned, I'm interested in working in a product company (direct contract, not contractor), not in a consulting company, outsourcing, or something like that, not a financial/banking/trading company, and I don't want to work with legacy products. I want a change of air.
