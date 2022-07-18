@@ -4,7 +4,7 @@
 
 I'm Armando Cifuentes González, well known as ArCiGo! 🕵️‍♂️ 🔎 🐞
 
-I'm Looking for new challenges as an Automation Test Engineer 🤖, work with amazing technologies 💪 (I'm open to learn new things!), and work in the European Union 🇪🇺 
+I'm Looking for new challenges as an Automation Test Engineer 🤖, to work with amazing technologies 💪 (I'm open to learn new things!), and work in the European Union 🇪🇺 
 
 I'm a **Software Engineer in Test**. Also, I'm a **Science Popularizer** at *[Sólo es Ciencia](https://soloesciencia.com/)*. Sometimes I work as a **Math/Testing/Career Switching & ISTQB CTFL mentor** 👨‍🏫
 
@@ -66,4 +66,4 @@ On the other hand, I've participated in activities like helping/visiting hospita
 * *«Sometimes I find bugs where there shouldn’t be.»* **- ArCiGo**
 * *«The people have a lot of bugs, including me. But there is nothing to worry about, we are perfectible 😊»* **- ArCiGo**
 
-**Notes.-** As I mentioned, I'm interested in working in a product company (direct contract, not contractor), not in a consulting company, outsourcing, or something like that, not a financial/banking/trading company, and I don't want to work with legacy products. I want a change of air.
+**Notes.-** As I mentioned, I'm interested in working in a product company (direct contract, not contractor), not in a consulting company, outsourcing, or something like that, not a financial/banking/trading company, and I don't want to work with legacy products. I'd like a change of scene.
