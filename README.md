@@ -48,7 +48,7 @@ On the other hand, I've participated in activities like helping/visiting hospita
 ## Trivia ❔
 
 - I’m currently retaking Automation Testing 🤖 🦾
-- I’m looking to work in a company product 🏢
+- I’m looking to work in a product company 🏢
 - I like nature! 🌱 🦁 🌳
 - I like traveling and discovering new places! 🧳 🗺️ ✈️
 - I sing! 🎼 🎙️ (but I have that activity paused 😔).
