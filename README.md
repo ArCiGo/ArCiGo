@@ -66,4 +66,4 @@ On the other hand, I've participated in activities like helping/visiting hospita
 * *«Sometimes I find bugs where there shouldn’t be.»* **- ArCiGo**
 * *«The people have a lot of bugs, including me. But there is nothing to worry about, we are perfectible 😊»* **- ArCiGo**
 
-**Notes.-** As I mentioned, I'm interested in working in a product company (direct contract, not contractor), not in a consulting company, outsourcing, or something like that, not a financial/banking/trading company, and I don't want to work with legacy products. I'd like a change of scene.
+**Notes.-** I'm interested in working in a company with benefits & perks (direct contract, permanent full time). I'd like a change of scene.
