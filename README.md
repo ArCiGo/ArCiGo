@@ -58,7 +58,6 @@ On the other hand, I've participated in activities like helping/visiting hospita
 - 💬 Ask me about anything!
 - 📫 How to reach me:
   - [LinkedIn](https://www.linkedin.com/in/arcigo/)
-  - [Twitter](https://twitter.com/_ArCiGo)
   - [My blog](https://arcigo.blogspot.com/)
   - [Sólo es Ciencia](https://soloesciencia.com/?s=arcigo)
 
