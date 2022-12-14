@@ -36,6 +36,8 @@ I'm a **Software Engineer in Test**. Also, I'm a **Science Popularizer** at *[SÃ
 * **Test your f`***` code!** (*Why do you need to test your code?*).
     * *Luxoft Tech Talks, 2020.*
         * **Organizer:** Luxoft.
+    * *UnderTest Talks*
+        * **Organizer:** UnderTest.
 * **Unit What!? (Unit Testing with C#).**
     * *Digital Economy Summit, 2019; PosaDev, 2019.*
         * **Organizers:** Digital Economy Summit MÃ©xico; GDL Dev Comms.
