@@ -4,8 +4,6 @@
 
 I'm Armando Cifuentes González, well known as ArCiGo! 🕵️‍♂️ 🔎 🐞
 
-I'm Looking for new challenges as an Automation Test Engineer 🤖, to work with amazing technologies 💪 (I'm open to learn new things!), and work in the European Union 🇪🇺 
-
 I'm a **Software Engineer in Test**. Also, I'm a **Science Popularizer** at *[Sólo es Ciencia](https://soloesciencia.com/)*. Sometimes I work as a **Math/Testing/Career Switching & ISTQB CTFL mentor** 👨‍🏫
 
 ## I have worked as a:
@@ -50,13 +48,12 @@ On the other hand, I've participated in activities like helping/visiting hospita
 ## Trivia ❔
 
 - I’m currently retaking Automation Testing 🤖 🦾
-- I’m looking to work in a product company 🏢
-- I like nature! 🌱 🦁 🌳
+- I'm a Catholic Christian ✝️ ⛪ 🛐
+- I love nature! 🌱 🦁 🌳
 - I like traveling and discovering new places! 🧳 🗺️ ✈️
 - I sing! 🎼 🎙️ (but I have that activity paused 😔).
-- Sometimes I write things. I have some short stories I did that need to be polished 📖 🧒 
+- Sometimes I write stuff. I have some short stories I did that need to be polished 📖 🧒 
 - Also, I like to read books 📚 🤓
-- Right now I am on stand by some automation frameworks that I did. The projects were made in C# and Java. My goal is to share the repos with the community who wants to start on this path or wants to have a framework for their projects ☺️
 - 💬 Ask me about anything!
 - 📫 How to reach me:
   - [LinkedIn](https://www.linkedin.com/in/arcigo/)
@@ -66,5 +63,3 @@ On the other hand, I've participated in activities like helping/visiting hospita
 * *«I like to help other people to learn and grow their skills in the IT field 😊»* **- ArCiGo**
 * *«Sometimes I find bugs where there shouldn’t be.»* **- ArCiGo**
 * *«The people have a lot of bugs, including me. But there is nothing to worry about, we are perfectible 😊»* **- ArCiGo**
-
-**Notes.-** I'm interested in working in a company with benefits & perks (direct contract, permanent full time). I'd like a change of scene.
