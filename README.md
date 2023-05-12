@@ -53,7 +53,7 @@ On the other hand, I've participated in activities like helping/visiting hospita
 - I like traveling and discovering new places! 🧳 🗺️ ✈️
 - I sing! 🎼 🎙️ (but I have that activity paused 😔).
 - Sometimes I write stuff. I have some short stories I did that need to be polished 📖 🧒 
-- Also, I like to read books 📚 🤓
+- Also, I like to read books 📚 🤓 (non-technical books).
 - 💬 Ask me about anything!
 - 📫 How to reach me:
   - [LinkedIn](https://www.linkedin.com/in/arcigo/)
