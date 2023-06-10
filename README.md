@@ -6,15 +6,7 @@ I'm Armando Cifuentes González, well known as ArCiGo! 🕵️‍♂️ 🔎 �
 
 I'm a **Software Engineer in Test**. Also, I'm a **Science Popularizer** at *[Sólo es Ciencia](https://soloesciencia.com/)*. Sometimes I work as a **Math/Testing/Career Switching & ISTQB CTFL mentor** 👨‍🏫
 
-## I have worked as a:
-
-* **Software Engineer in Test** (Automation and Manual Tester) at *Luxoft*
-* **Software Engineer in Test** (Manual Tester) at *iTexico*.
-* **Software Engineer Intern** at *Unosquare*, using .NET/JS technologies
-* **Software Engineer Intern** at *Nectri Software Developments*, using .NET technologies.
-* **Tester** (Researcher Assistant) at *ITESM Monterrey* (Campus Monterrey). 
-
-## Also, I'm a Speaker! 🎤
+## My talks 🎤
 
 * **Why and how I changed from development to testing?**
     * *1º st. Test Tribe Barcelona Catchup, 2022.*
