@@ -39,7 +39,7 @@ On the other hand, I've participated in activities like helping/visiting hospita
 
 ## Trivia ❔
 
-- I’m currently retaking Automation Testing 🤖 🦾
+- I’m currently working as a SDET 🤖 🦾
 - I'm a Catholic Christian ✝️ ⛪ 🛐
 - I love nature! 🌱 🦁 🌳
 - I like traveling and discovering new places! 🧳 🗺️ ✈️
