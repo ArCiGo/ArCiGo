@@ -8,30 +8,30 @@ I'm a **Software Engineer in Test**. Also, I'm a **Science Popularizer** at *[S�
 
 ## My talks 🎤
 
-* **Why and how I changed from development to testing?**
+* **Share of experience: Why and how I changed from development to testing?**
     * *1º st. Test Tribe Barcelona Catchup, 2022.*
         * **Sponsors:** The Test Tribe & Barcelona Activa & co.meta.
 * **Panel: Why is testing important?**
     * *Hands on Testing, 2021.*
         * **Organizer:** QA Minds.
-* **Retos del Ingeniero en Sistemas Computacionales.**
+* **Panel: Retos del Ingeniero en Sistemas Computacionales.**
     * *Madero City Institute of Technology, 2021.*
         * **Organizer:** Computer Systems Academic Unit of Madero City Institute of Technology.
 * **How to create an amazing CV!**
     * *1º st. Sólo es Ciencia Fest, 2021.*
         * **Organizer:** Sólo es Ciencia.
-* **Dabbling in the Marvelous World of IT!**
+* [**Dabbling in the Marvelous World of IT!**](https://github.com/ArCiGo/Talks/blob/master/DabblingInTheMarvelousITWorld.pdf)
     * *4º th. PosaDev, 2020.*
         * **Organizer:** GDL Dev Comms.
-* **Test your f`***` code!** (*Why do you need to test your code?*).
+* [**Test your f`***` code!** (*Why do you need to test your code?*).](https://github.com/ArCiGo/Talks/blob/master/Test%20your%20f.pdf)
     * *Luxoft Tech Talks, 2020.*
         * **Organizer:** Luxoft.
     * *UnderTest Talks*
         * **Organizer:** UnderTest.
-* **Unit What!? (Unit Testing with C#).**
+* [**Unit What!? (Unit Testing with C#).**](https://github.com/ArCiGo/Talks/blob/master/UnitTestingTalk.pdf)
     * *Digital Economy Summit, 2019; PosaDev, 2019.*
         * **Organizers:** Digital Economy Summit México; GDL Dev Comms.
-* **That’s not a bug, it's a feature…** (*Why is testing necessary?*).
+* [**That’s not a bug, it's a feature…** (*Why is testing necessary?*).](https://github.com/ArCiGo/Talks/blob/master/WhyIsTestingNecessary.pdf)
     * *Headspring Talks, 2019.*
         * **Organizer:** Headspring.
 
