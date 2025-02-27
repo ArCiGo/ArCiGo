@@ -8,6 +8,9 @@ I'm a **Software Engineer in Test**. Also, I'm a **Science Popularizer** at *[S�
 
 ## My talks 🎤
 
+* [**Moving abroad (without perishing in the attempt).**](https://github.com/ArCiGo/Talks/blob/master/MovingAbroad_Final.pdf)
+    * *Ciclo de Conferencias y Seminario Internacional de Innovación Computacional, 2025.*
+        * **Organizer:** Computer Systems Academic Unit of Madero City Institute of Technology.
 * **Share of experience: Why and how I changed from development to testing?**
     * *1º st. Test Tribe Barcelona Catchup, 2022.*
         * **Sponsors:** The Test Tribe & Barcelona Activa & co.meta.
@@ -34,6 +37,10 @@ I'm a **Software Engineer in Test**. Also, I'm a **Science Popularizer** at *[S�
 * [**That’s not a bug, it's a feature…** (*Why is testing necessary?*).](https://github.com/ArCiGo/Talks/blob/master/WhyIsTestingNecessary.pdf)
     * *Headspring Talks, 2019.*
         * **Organizer:** Headspring.
+
+Other talks.-
+
+* [**Testing your awesome code.**](https://github.com/ArCiGo/Talks/blob/master/TestingYourAwesomeCode.pdf)
 
 On the other hand, I've participated in activities like helping/visiting hospitals, foundations, and nursing homes; I used to be a Catholic missionary in rural communities.
 
