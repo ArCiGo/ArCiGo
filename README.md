@@ -4,7 +4,11 @@
 
 I'm Armando Cifuentes González, well known as ArCiGo! 🕵️‍♂️ 🔎 🐞
 
-I'm a **Software Engineer in Test**. Also, I'm a **Science Popularizer** at *[Sólo es Ciencia](https://soloesciencia.com/)*. Sometimes I work as a **Math/Testing/Career Switching & ISTQB CTFL mentor** 👨‍🏫
+I'm a **Software Engineer in Test**, **Science Popularizer** at [_Sólo es Ciencia_](https://soloesciencia.com/) and a **Math**/**Testing**/**Career & ISTQB CTFL mentor** 👨‍🏫.
+
+I have been working performing manual (Web & mobile) and automation (Web) testing, using different kinds of tools, processes and methodologies. I'm always focused on the customer needs and the user experience of the products I test.
+
+Sometimes I give talks about testing ⬇️.
 
 ## My talks 🎤
 
@@ -46,19 +50,21 @@ On the other hand, I've participated in activities like helping/visiting hospita
 
 ## Trivia ❔
 
-- I’m currently working as a SDET 🤖 🦾
-- I'm a Catholic Christian ✝️ ⛪ 🛐
-- I love nature! 🌱 🦁 🌳
-- I like traveling and discovering new places! 🧳 🗺️ ✈️
+- I’m currently working as a SDET 🤖 🦾.
+- I'm a Catholic Christian ✝️ ⛪ 🛐.
+- I love nature! 🌱 🦁 🌳.
+- I like traveling and discovering new places! 🧳 🗺️ ✈️.
 - I sing! 🎼 🎙️ (but I have that activity paused 😔).
-- Sometimes I write stuff. I have some short stories I did that need to be polished 📖 🧒 
+- Sometimes I write stuff. I have some short stories I did that need to be polished 📖 🧒.
 - Also, I like to read books 📚 🤓 (non-technical books).
 - 💬 Ask me about anything!
 - 📫 How to reach me:
-  - [LinkedIn](https://www.linkedin.com/in/arcigo/)
-  - [My blog](https://arcigo.blogspot.com/)
-  - [Sólo es Ciencia](https://soloesciencia.com/?s=arcigo)
+  - [LinkedIn](https://www.linkedin.com/in/arcigo/).
+  - [My blog](https://arcigo.blogspot.com/).
+  - [Sólo es Ciencia](https://soloesciencia.com/?s=arcigo).
+ 
+Personal quotes 🦉.- 
 
-* *«I like to help other people to learn and grow their skills in the IT field 😊»* **- ArCiGo**
-* *«Sometimes I find bugs where there shouldn’t be.»* **- ArCiGo**
-* *«The people have a lot of bugs, including me. But there is nothing to worry about, we are perfectible 😊»* **- ArCiGo**
+* *«I like to help other people to learn and grow their skills in the IT field 😊»*.
+* *«Sometimes I find bugs where there shouldn’t be»*.
+* *«The people have a lot of bugs, including me. But there is nothing to worry about, we are perfectible 😊»*.
