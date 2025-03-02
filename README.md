@@ -8,7 +8,7 @@ I'm a **Software Engineer in Test**, **Science Popularizer** at [_Sólo es Cienc
 
 I have been working performing manual (Web & mobile) and automation (Web) testing, using different kinds of tools, processes and methodologies. I'm always focused on the customer needs and the user experience of the products I test.
 
-Sometimes I give talks about testing ⬇️.
+Sometimes I give talks about testing and professional growth ⬇️.
 
 ## My talks 🎤
 
@@ -67,4 +67,4 @@ Personal quotes 🦉.-
 
 * *«I like to help other people to learn and grow their skills in the IT field 😊»*.
 * *«Sometimes I find bugs where there shouldn’t be»*.
-* *«The people have a lot of bugs, including me. But there is nothing to worry about, we are perfectible 😊»*.
+* *«The people have a lot of bugs, including me. But there is nothing to worry about: We are perfectible 😊»*.
